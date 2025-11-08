@@ -1,0 +1,6 @@
+[preload  storage="./data/fgimage/default/0/light.png"  ]
+[preload  storage="./data/fgimage/default/1/hi.png"  ]
+[preload  storage="./data/fgimage/default/0/blue.png"  ]
+[preload  storage="./data/fgimage/default/1/lost.png"  ]
+[preload  storage="./data/fgimage/default/0/dark.png"  ]
+[return]

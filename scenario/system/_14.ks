@@ -1,0 +1,6 @@
+[preload  storage="./data/fgimage/default/mu/mu1.png"  ]
+[preload  storage="./data/bgimage/dark.png"  ]
+[preload  storage="./data/fgimage/default/mu/mu2.png"  ]
+[preload  storage="./data/fgimage/default/mu/mu3.png"  ]
+[preload  storage="./data/fgimage/default/0/iki.png"  ]
+[return]

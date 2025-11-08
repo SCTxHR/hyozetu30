@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/b1.png"  ]
+[preload  storage="./data/fgimage/chara/2/1_0001.png"  ]
+[preload  storage="./data/fgimage/chara/2/1_0006.png"  ]
+[preload  storage="./data/fgimage/default/0/dark.png"  ]
+[preload  storage="./data/fgimage/chara/2/0game2.png"  ]
+[preload  storage="./data/fgimage/chara/2/0game3.png"  ]
+[return]
