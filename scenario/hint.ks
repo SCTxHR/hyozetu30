@@ -1223,7 +1223,7 @@ Let's Go～[tb_autosave  ][p]
 [chara_part  name="XX"  time="0"  ude="jkxxb.png"  me="xxb_0012.png"  kuti="xxb_0024.png"  ]
 [chara_mod  name="XX"  time="0"  cross="false"  storage="chara/6/xxb_0019.png"  ]
 [tb_start_tyrano_code]
-じゃヒミツ～！[tb_autosave  ][p]
+那，就是秘密了～！[tb_autosave  ][p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
