@@ -1,6 +1,0 @@
-[preload  storage="./data/bgimage/si.png"  ]
-[preload  storage="./data/fgimage/default/title/title2.png"  ]
-[preload  storage="./data/fgimage/default/0/kipback.png"  ]
-[preload  storage="./data/bgimage/message2.png"  ]
-[preload  storage="./data/fgimage/chara/6/lastx2.png"  ]
-[return]

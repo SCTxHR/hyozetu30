@@ -1,7 +1,0 @@
-[preload  storage="./data/bgimage/dark.png"  ]
-[preload  storage="./data/fgimage/default/title/message1.png"  ]
-[preload  storage="./data/fgimage/default/0/si.png"  ]
-[preload  storage="./data/bgimage/si.png"  ]
-[preload  storage="./data/fgimage/default/title/title1.png"  ]
-[preload  storage="./data/fgimage/default/title/iki.png"  ]
-[return]

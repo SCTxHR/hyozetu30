@@ -1,6 +1,0 @@
-[preload  storage="./data/bgimage/b4a.png"  ]
-[preload  storage="./data/fgimage/default/0/red.png"  ]
-[preload  storage="./data/fgimage/chara/2/hhh.png"  ]
-[preload  storage="./data/fgimage/chara/2/hhh1.png"  ]
-[preload  storage="./data/fgimage/chara/2/hhh2.png"  ]
-[return]

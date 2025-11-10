@@ -1,7 +1,0 @@
-[preload  storage="./data/bgimage/b5.png"  ]
-[preload  storage="./data/fgimage/default/18/y.png"  ]
-[preload  storage="./data/fgimage/default/18/h2.png"  ]
-[preload  storage="./data/fgimage/default/18/y3.png"  ]
-[preload  storage="./data/bgimage/b6.png"  ]
-[preload  storage="./data/fgimage/default/18/y4.png"  ]
-[return]

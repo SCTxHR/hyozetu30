@@ -1,7 +1,0 @@
-[preload  storage="./data/fgimage/default/0/dark.png"  ]
-[preload  storage="./data/fgimage/default/12/12senpai1.png"  ]
-[preload  storage="./data/fgimage/default/12/12senpai2.png"  ]
-[preload  storage="./data/fgimage/default/12/12senpai3.png"  ]
-[preload  storage="./data/fgimage/default/12/12happy.png"  ]
-[preload  storage="./data/fgimage/default/12/2a.png"  ]
-[return]

@@ -1584,7 +1584,7 @@ SNS的螢幕截圖吧[tb_autosave  ][p]
 [chara_part  name="XX"  time="0"  ude="xxb_0030.png"  me="xxb_0001.png"  kuti="xxb_0029.png"  ]
 [tb_start_tyrano_code]
 我不熟悉機械啊[tb_autosave  ][p]
-以前的電腦病……[tb_autosave  ][p]
+原電腦病……[tb_autosave  ][p]
 
 [_tb_end_tyrano_code]
 
@@ -1592,7 +1592,7 @@ SNS的螢幕截圖吧[tb_autosave  ][p]
 [chara_part  name="XX"  time="0"  ude="jkxxb.png"  me="xxb_0017.png"  kuti="xxb_0025.png"  ]
 [tb_start_tyrano_code]
 啊〜〜！！！[tb_autosave  ][p]
-通心粉筆管彎管！！[tb_autosave  ][p]
+冰鎮涼拌海蜇！！[tb_autosave  ][p]
 
 [_tb_end_tyrano_code]
 
